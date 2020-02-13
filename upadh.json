@@ -1,12 +1,12 @@
 {
-"Version":"1.2",
+"Version":"1.3",
 "Url":"https://github.com/itim-vpn/itim-vpn/raw/master/itimvpn.zip" ,
 "Changelog":"
-          เทส อัพเดทไฟล์ล่าสุด 12/02/63 
+          เทส อัพเดทไฟล์ล่าสุด 13/02/63 
 
-        เร็วๆนี้ เตรียมพบกับไฟล์ Dtac Go
+      
 
-                  SUMMER-VPN 
+                  ITIM-VPN 
 
         รองรับ ซิม ทรู ดีแทค เอไอเอส
      
@@ -17,16 +17,16 @@
                ซิมดีแทครองรับโปร
                   Dtac music 
                   Dtac Social 
-                  Dtac Go *(เร็วๆนี้)*
+                 
 
              ซิมเอไอเอสรองรับโปร
                    Ais Social 
 
                 • ○ ● จัดทำโดย ● ○ •
 
-                     Vpn For ทุกคน
+                     ITIM-VPN
 
-                 Wichai Singthuean 
+                 
 ",
 
 "latestVersion": "1.0.0",
