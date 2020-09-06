@@ -1,6 +1,6 @@
-1.4
+1.5
 ITIM VPN
-เซิฟSG-RANDOM ฟรี
+เซิฟSG-TRUE ฟรี
 เซิฟTH-CAT ฟรี
 เซิฟTH-NORD ฟรี
 เซิฟTH-RANDOM ฟรี
