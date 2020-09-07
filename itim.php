@@ -1,4 +1,4 @@
-1.5
+1.6
 ITIM VPN
 เซิฟSG-TRUE ฟรี
 เซิฟTH-CAT ฟรี
