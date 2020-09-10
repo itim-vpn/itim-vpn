@@ -1,6 +1,6 @@
-1.8
+1.9
 ITIM VPN
-เซิฟSG-RANDOM ฟรี
+เซิฟSG-FREE ฟรี
 เซิฟTH-FREE ฟรี
 เซิฟTH-VIP ต้องเช่าครับ
 เซิฟTH-ZCOM ต้องเช่าครับ
