@@ -1,4 +1,4 @@
-1.11
+1.12
 ITIM VPN
 เซิฟSG-FREE ฟรี
 เซิฟTH-FREE ฟรี
