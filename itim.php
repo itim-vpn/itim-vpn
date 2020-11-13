@@ -1,5 +1,8 @@
-1.5
+1.6
 ITIM VPN
-เซิฟ TH-BANGMOD ฟรี
+เซิฟ LAO ฟรี
+เซิฟ SG ฟรี
+เซิฟ TH-BM ฟรี
+เซิฟ TH-RD ฟรี
 เซิฟ TH-READY ฟรี
 เซิฟ TH-VIP ต้องเช่าครับ
