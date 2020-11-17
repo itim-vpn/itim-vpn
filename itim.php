@@ -1,7 +1,8 @@
-2.3
+2.4
 ITIM VPN
 เซิฟ LAO ฟรี
 เซิฟ SG ฟรี
+เซิฟ TH-BANGMOD ฟรี
 เซิฟ TH-INET ฟรี
 เซิฟ TH-RANDOM ฟรี
 เซิฟ TH-READY ฟรี
