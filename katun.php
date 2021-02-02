@@ -1,9 +1,9 @@
-1.6
+1.7
 KATUN VPN
 UPDATE APP KATUN VPN
-28-01-21
+03-02-21
 Server Singapore 3 Server
-Server Thailand 4 Server
+Server Thailand 5 Server
 
 SIM TRUE 
 SOCIAL&YOUTUBE&FB&LINE&NOPRO
