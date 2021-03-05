@@ -1,11 +1,9 @@
-2.7
+2.8
 KATUN VPN
 UPDATE APP KATUN VPN
-02-03-21
+06-03-21
 Server SG 10 Server
-Server TH-CAT 2 Server
-Server TH-INET 2 Server
-Server TH-ZCOM 1 Server
+Server TH-CAT 3 Server
 
 SIM TRUE 
 FB.GAMING&YOUTUBE
