@@ -1,7 +1,7 @@
-2.9
+3.0
 KATUN VPN
 UPDATE APP KATUN VPN
-08-03-21
+09-03-21
 Server SG 10 Server
 Server TH-CAT 3 Server
 Server TH-BM 1 Server
