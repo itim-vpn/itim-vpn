@@ -1,7 +1,7 @@
-4.1
+4.2
 KATUN VPN
 UPDATE APP KATUN VPN
-11-04-21
+13-04-21
 Server VIP-CAT 1 Server
 Server TH-BM 1 Server
 Server TH-AUTO 5 Server
