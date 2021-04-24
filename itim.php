@@ -1,8 +1,8 @@
-5.5
+5.6
 ITIM VPN
-15-04-21
+25-04-21
 SERVER
-TH-CAT 5 SERVER
+TH-CAT 6 SERVER
 VIP-CAT 2 SERVER
 เซิฟ VIP-CAT ต้องเช่าครับ เดือนละ20บาท
 สนใจเช่าติดต่อทักแชทที่FB.เสี่ยเอก มงคล
