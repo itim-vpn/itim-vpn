@@ -1,18 +1,18 @@
-4.2
+4.3
 KATUN VPN
 UPDATE APP KATUN VPN
-13-04-21
-Server VIP-CAT 1 Server
-Server TH-BM 1 Server
+28-04-21
 Server TH-AUTO 5 Server
 Server SG 10 Server
 Server JP 5 Server
+Server LAO 1 Server
+Server MALAY 1 Server
 
 SIM TRUE 
 FB.GAMING&NOPRO
 
 SIM DTAC
-SOCIAL&LINE&WORK
+SOCIAL&WORK
 
 BY ITIM VPN
 
