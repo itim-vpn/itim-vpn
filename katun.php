@@ -1,7 +1,7 @@
-4.5
+4.6
 KATUN VPN
 UPDATE APP KATUN VPN
-07-05-21
+15-05-21
 Server TH 5 Server
 Server SG 5 Server
 Server JP 5 Server
