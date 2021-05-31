@@ -1,6 +1,5 @@
-4.7
+4.8
 KATUN VPN
-UPDATE APP KATUN VPN
 01-06-21
 Server VIP-CAT 2 Server
 Server VIP-GAMING 2 Server
@@ -10,7 +9,7 @@ FB.GAMING&NOPRO
 SIM DTAC
 SOCIAL&WORK&LINE
 BY ITIM VPN
-#######################
+####################
 -เลือกใช้ไฟล์ให้ตรงกับโปรที่สมัคร
 -กดอัพเดตไฟล์ในแอพบ่อยๆ
 -เซิฟไหนไฟล์ไหนไม่ติดให้เปลี่ยนไปใช้เซิฟอื่นไฟล์อื่นนะครับ
