@@ -1,4 +1,4 @@
-5.2
+5.3
 KATUN VPN
 25-06-21
 Server TH-CAT 5 Server
@@ -10,13 +10,10 @@ Server JP 5 Server
 Server LAO 1 Server
 Server VIP-CAT 2 Server
 Server VIP-GAMING 1 Server
-SIM TRUE 
-FB.GAMING&NOPRO
-SIM DTAC
-SOCIAL&WORK&LINE
-SIM AIS
-AIS PLAY
-BY ITIM VPN
+####################
+เซิฟ VIP-CAT เช่าเดือนละ20บาท
+เซิฟ VIP-GAMING เช่าเดือนละ30บาท
+สนใจเช่าติดต่อทักแชทที่FB.เสี่ยเอก มงคล
 ####################
 -เลือกใช้ไฟล์ให้ตรงกับโปรที่สมัคร
 -กดอัพเดตไฟล์ในแอพบ่อยๆ
