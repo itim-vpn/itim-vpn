@@ -1,12 +1,12 @@
-6.8
+6.9
 ITIM VPN
-27-06-21
+08-07-21
 SERVER
 TH-CAT 5 SERVER
 TH-GAMING 5 SERVER
 TH-INET 5 SERVER
-SG-AUTO 15 SERVER
-JP-AUTO 5 SERVER
+SG-VPS 5 SERVER
+SG-AUTO 10 SERVER
 VIP-CAT 2 SERVER
 VIP-GAMING 1 Server
 เซิฟ VIP-CAT เช่าเดือนละ20บาท
@@ -17,5 +17,5 @@ VIP-GAMING 1 Server
 -กดอัพเดตไฟล์ในแอพบ่อยๆ
 -เซิฟไหนไฟล์ไหนไม่ติดให้เปลี่ยนไปใช้เซิฟอื่นไฟล์อื่นนะครับ
 -เล่นเกมส์ให้ใช้เซิฟ TH-GAMING
--ใช้งานทั่วไปให้ใช้เซิฟ TH-CAT,TH-INET,SG,JP
+-ใช้งานทั่วไปให้ใช้เซิฟ TH-CAT,TH-INET,SG
 *หมายเหตุ: ช่วยรีวิว+ให้คะแนนแอพด้วยนะครับ
