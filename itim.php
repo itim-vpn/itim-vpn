@@ -1,17 +1,16 @@
-7.0
+7.1
 ITIM VPN
-17-07-21
+24-07-21
 SERVER
-TH-CAT 5 SERVER
+TH-CAT 10 SERVER
 TH-GAMING 5 SERVER
 TH-INET 5 SERVER
 SG-VPS 5 SERVER
-SG-AUTO 10 SERVER
+SG-FAST 10 SERVER
 VIP-CAT 2 SERVER
-VIP-GAMING 1 Server
+VIP-GAMING 1 SERVER
 เซิฟ VIP-CAT เช่าเดือนละ20บาท
 เซิฟ VIP-GAMING เช่าเดือนละ30บาท
-สนใจเช่าติดต่อทักแชทที่FB.เสี่ยเอก มงคล
 ########################
 -เลือกใช้ไฟล์ให้ตรงกับโปรที่สมัคร
 -กดอัพเดตไฟล์ในแอพบ่อยๆ
