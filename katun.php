@@ -1,6 +1,6 @@
-6.3
+6.4
 KATUN VPN
-30-07-21
+01-08-21
 Server TH-CAT 10 Server
 Server TH-GAMING 5 Server
 Server TH-INET 5 Server
@@ -11,6 +11,7 @@ Server SG-AUTO 10 Server
 Server LAO 1 Server
 Server VIP-CAT 2 Server
 Server VIP-GAMING 1 Server
+Server VIP-KATUN 1 Server
 Server VIP-ZCOM 1 Server
 ####################
 เซิฟ VIP-CAT เช่าเดือนละ20บาท
