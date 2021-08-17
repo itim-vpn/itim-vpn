@@ -1,4 +1,4 @@
-7.4
+7.5
 KATUN VPN
 17-08-21
 Server TH-CAT 20 Server
@@ -9,9 +9,8 @@ Server TH-RANDOM 2 Server
 Server SG-VPS 5 Server
 Server SG-AUTO 10 Server
 Server LAO 1 Server
-Server VIP-CAT 2 Server
+Server VIP-CAT 4 Server
 Server VIP-GAMING 1 Server
-Server VIP-KATUN 1 Server
 Server VIP-ZCOM 1 Server
 📢โปรดอ่านรายละเอียดก่อนใช้งาน
 -เลือกใช้ไฟล์ให้ตรงกับโปรที่สมัคร
