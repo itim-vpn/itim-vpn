@@ -1,13 +1,13 @@
-7.5
+7.6
 KATUN VPN
-17-08-21
+18-08-21
 Server TH-CAT 20 Server
 Server TH-GAMING 5 Server
 Server TH-INET 10 Server
 Server TH-READY 5 Server
 Server TH-RANDOM 2 Server
-Server SG-VPS 5 Server
-Server SG-AUTO 10 Server
+Server SG-FAST 5 Server
+Server SG-RANDOM 10 Server
 Server LAO 1 Server
 Server VIP-CAT 4 Server
 Server VIP-GAMING 1 Server
