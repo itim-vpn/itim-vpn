@@ -1,4 +1,4 @@
-7.9
+8.0
 KATUN VPN
 20-08-21
 Server TH-CAT 20 Server
