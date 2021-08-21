@@ -1,12 +1,11 @@
-8.0
+8.1
 KATUN VPN
 20-08-21
-Server TH-CAT 20 Server
-Server TH-GAMING 10 Server
-Server TH-INET 10 Server
-Server TH-READY 5 Server
+Server TH-CAT 10 Server
+Server TH-GAMING 5 Server
+Server TH-INET 5 Server
 Server TH-RANDOM 2 Server
-Server SG-FAST 5 Server
+Server SG-FAST 10 Server
 Server SG-RANDOM 10 Server
 Server LAO 1 Server
 Server VIP-CS 1 Server ฟรี
@@ -23,7 +22,7 @@ Server VIP-ZCOM 1 Server
 📢เลือกเซิฟให้ตรงกับการใช้งาน
 -เล่นเกมส์แนะนำให้ใช้เซิฟTH-GAMING,TH-RANDOM
 -ดูยูทูบแนะนำให้ใช้เซิฟTH-INET
--ใช้งานทั่วไปแนะนำให้ใช้เซิฟTH-CAT,TH-READY,LAO,SG
+-ใช้งานทั่วไปแนะนำให้ใช้เซิฟTH-CAT,LAO,SG
 *หมายเหตุ:ช่วยรีวิว+ให้คะแนนแอพด้วยนะครับ
 BY ITIM VPN
 
