@@ -1,4 +1,4 @@
-8.5
+8.6
 KATUN VPN
 25-08-21
 Server TH-CAT 10 Server
