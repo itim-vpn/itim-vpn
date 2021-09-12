@@ -1,6 +1,6 @@
-10.5
+10.6
 ITIM VPN
-07-09-21
+12-09-21
 SERVER LIST
 TH-CAT 10 SERVER
 TH-GAME 10 SERVER
@@ -9,6 +9,7 @@ TH-READY 10 SERVER
 SG-FAST 5 SERVER
 SG-RANDOM 10 SERVER
 VIP-CORP 1 SERVER (FREE)
+VIP-FREE 1 SERVER (FREE)
 VIP-CAT 3 SERVER
 VIP-GAME 2 SERVER
 📢โปรดอ่านรายละเอียดก่อนใช้งาน
