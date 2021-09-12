@@ -1,6 +1,6 @@
-9.2
+9.3
 KATUN VPN
-07-09-21
+12-09-21
 Server TH-CAT 5 Server
 Server TH-GAME 5 Server
 Server TH-INET 5 Server
@@ -12,6 +12,7 @@ Server LAO 1 Server
 Server VIP-CAT 1 Server FREE
 Server VIP-CORP 1 Server FREE
 Server VIP-CS 1 Server FREE
+Server VIP-FREE 1 Server FREE
 Server VIP-GAME 2 Server FREE
 📢โปรดอ่านรายละเอียดก่อนใช้งาน
 -เลือกใช้ไฟล์ให้ตรงกับโปรที่สมัคร
