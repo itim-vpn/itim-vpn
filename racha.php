@@ -1,6 +1,6 @@
-1.0
+16.2
          RACHA VPN
-          21-09-21
+         21-09-21
         SERVER LIST
    Server TH-CAT 10 Server
    Server TH-GAME 10 Server
