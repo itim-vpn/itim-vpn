@@ -1,20 +1,17 @@
-9.7
+9.8
 KATUN VPN
-19-09-21
+23-09-21
 Server TH-CAT 5 Server
 Server TH-GAME 5 Server
 Server TH-INET 5 Server
 Server TH-READY 5 Server
-Server TH-RANDOM 2 Server
-Server SG-AUTO 5 Server
-Server SG-FAST 5 Server
+Server TH-CSL 2 Server
+Server TH-RANDOM 1 Server
+Server SG-FAST 10 Server
 Server SG-RANDOM 10 Server
 Server LAO 1 Server
-Server VIP-CAT 1 Server FREE
-Server VIP-CORP 1 Server FREE
-Server VIP-CS 1 Server FREE
-Server VIP-FREE 1 Server FREE
-Server VIP-GAME 4 Server FREE
+Server VIP-CAT 4 Server
+Server VIP-GAME 1 Server
 📢โปรดอ่านรายละเอียดก่อนใช้งาน
 -เลือกใช้ไฟล์ให้ตรงกับโปรที่สมัคร
 -กดอัพเดตไฟล์ในแอพทุกครั้งที่เชื่อมต่อเน็ต
