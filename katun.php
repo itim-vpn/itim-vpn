@@ -1,7 +1,7 @@
-9.9
+10.0
 KATUN VPN
-25-09-21
-Server TH-CAT 5 Server
+26-09-21
+Server TH-CAT 10 Server
 Server TH-GAME 5 Server
 Server TH-INET 5 Server
 Server TH-READY 5 Server
