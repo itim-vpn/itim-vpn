@@ -1,4 +1,4 @@
-16.6
+16.7
          RACHA VPN
          01-10-21
         SERVER LIST
