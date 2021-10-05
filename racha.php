@@ -1,13 +1,13 @@
-16.7
+16.8
          RACHA VPN
-         01-10-21
+         05-10-21
         SERVER LIST
    Server TH-CAT 10 Server
    Server TH-GAME 10 Server
    Server TH-INET 10 Server
    Server TH-READY 10 Server
-   Server TH-RANDOM 1 Server
-   Server SG-AUTO 6 Server
+   Server TH-RANDOM 3 Server
+   Server SG-AUTO 5 Server
    Server SG-FAST 10 Server
    Server SG-RANDOM 10 Server
    Server VIP-CAT 4 Server
@@ -28,5 +28,4 @@
    -Dtac-Lazada
    -True-Nopro
    -Ais-Play
-
    BY ITIM VPN
