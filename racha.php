@@ -1,6 +1,6 @@
-16.8
+16.9
          RACHA VPN
-         05-10-21
+         10-10-21
         SERVER LIST
    Server TH-CAT 10 Server
    Server TH-GAME 10 Server
@@ -11,7 +11,7 @@
    Server SG-FAST 10 Server
    Server SG-RANDOM 10 Server
    Server VIP-CAT 4 Server
-   Server VIP-GAME 1 Server
+   Server VIP-GAME 2 Server
    Server VIP-FREE 1 Server
    Server VIP-SG 1 Servee
    📢โปรดอ่านรายละเอียดก่อนใช้งาน
