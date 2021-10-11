@@ -1,6 +1,6 @@
-10.5
+10.6
 KATUN VPN
-04-10-21
+11-10-21
 Server TH-CAT 10 Server
 Server TH-GAME 5 Server
 Server TH-INET 5 Server
@@ -25,7 +25,7 @@ Server VIP-SG 1 Server
 -เล่นเกมส์แนะนำให้ใช้เซิฟTH-GAME,TH-RANDOM
 -ดูยูทูบแนะนำให้ใช้เซิฟTH-INET
 -ใช้งานทั่วไปแนะนำให้ใช้เซิฟTH-CAT,TH-READY,TH-CSL,LAO,SG
-*หมายเหตุ:ช่วยรีวิว+ให้คะแนนแอพด้วยนะครับ
+👉ช่วยรีวิว+ให้คะแนนแอพด้วยนะครับ🙏
 BY ITIM VPN
 
 
