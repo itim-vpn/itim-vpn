@@ -1,14 +1,15 @@
 10.6
 KATUN VPN
-11-10-21
+13-10-21
 Server TH-CAT 10 Server
 Server TH-GAME 5 Server
 Server TH-INET 5 Server
 Server TH-READY 5 Server
 Server TH-CSL 5 Server
 Server TH-RANDOM 3 Server
-Server SG-AUTO 10 Server
-Server SG-FAST 10 Server
+Server SG-AUTO 5 Server
+
+
 Server SG-RANDOM 10 Server
 Server LAO 1 Server
 Server VIP-CAT 4 Server
