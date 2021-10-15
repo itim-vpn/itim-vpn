@@ -8,14 +8,12 @@ Server TH-READY 5 Server
 Server TH-CSL 5 Server
 Server TH-RANDOM 3 Server
 Server SG-AUTO 5 Server
-S
-S
 Server SG-RANDOM 10 Server
 Server LAO 1 Server
 Server VIP-CAT 4 Server
 Server VIP-GAME 2 Server
-Server VIP-FREE 1 Server
-Server VIP-SG 1 Server
+Server VIP-FREE 2 Server
+Server VIP-SG 2 Server
 📢โปรดอ่านรายละเอียดก่อนใช้งาน
 -เลือกใช้ไฟล์ให้ตรงกับโปรที่สมัคร
 -กดอัพเดตไฟล์ทุกครั้งที่เข้าใช้งานแอพ
