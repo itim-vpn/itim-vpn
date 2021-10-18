@@ -1,6 +1,6 @@
-17.1
+17.2
      RACHA VPN
-     13-10-21
+     18-10-21
      SERVER
  Server TH-CAT 10 Server
  Server TH-GAME 10 Server
@@ -8,10 +8,10 @@
  Server TH-READY 10 Server
  Server TH-RANDOM 3 Server
  Server SG-AUTO 5 Server
- Server SG-FAST 10 Server
+ Server SG-FAST 5 Server
  Server SG-RANDOM 10 Server
  Server VIP-CAT 4 Server
- Server VIP-GAME 2 Server
+ Server VIP-GAME 3 Server
  Server VIP-FREE 2 Server
  Server VIP-SG 2 Servee
  📢โปรดอ่านรายละเอียดก่อนใช้งาน
