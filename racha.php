@@ -1,6 +1,6 @@
-17.3
+17.4
 RACHA VPN
- 19-10-21
+ 20-10-21
 Server TH-CAT 10 Server
 Server TH-GAME 10 Server
 Server TH-INET 10 Server
@@ -21,5 +21,5 @@ Server VIP-SG 2 Servee
 ✅ดูยูทูบให้ใช้เซิฟTH-INET
 ✅ใช้งานทั่วไปให้ใช้เซิฟTH-CAT,TH-READY,SG
 👉ช่วยรีวิว+ให้คะแนนแอพให้ด้วยนะครับ🙏
-👉ช่วยกดดูโฆษณาให้ด้วยนะครับ🙏
+👉ช่วยกดดูโฆษณาด้วยนะครับ🙏
 BY ITIM VPN
