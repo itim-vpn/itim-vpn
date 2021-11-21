@@ -10,7 +10,6 @@ Server TH-RANDOM 3 Server
 Server SG-AUTO 10 Server
 Server SG-FAST 5 Server
 Server VIP-CAT 4 Server
-Server VIP-CORP 2 Server
 Server VIP-CSL 2 Server
 Server VIP-GAME 3 Server
 Server VIP-FREE 2 Server
