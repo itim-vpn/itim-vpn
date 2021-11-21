@@ -1,6 +1,6 @@
-11.7
+11.8
 KATUN VPN
-Update 13-11-21
+Update 22-11-21
 Server TH-CAT 10 Server
 Server TH-GAME 10 Server
 Server TH-INET 5 Server
