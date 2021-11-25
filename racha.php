@@ -1,6 +1,6 @@
-18.3
+18.4
 RACHA VPN
-UPDATE 24-11-21
+UPDATE 25-11-21
 เพิ่มเซิฟ FAST 5 SERVER
 เพิ่มเซิฟ SG 5 SERVER
 เพิ่มเซิฟ GAME 5 SERVER
