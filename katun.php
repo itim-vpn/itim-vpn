@@ -1,6 +1,6 @@
-12.1
+12.2
 KATUN VPN
-UPDATE 11-12-21
+UPDATE 18-12-21
 เพิ่มเซิฟ FAST 5 SERVER
 เพิ่มเซิฟ SG 5 SERVER
 เพิ่มเซิฟ GAME 5 SERVER
